@@ -1,7 +1,7 @@
 # <h1><a href="https://imamuddinwp.github.io/imamuddin/" target="_blank">Imam Uddin</a></h1>
 <h2>Front-End Developer | SEO Expert </h2>
-<h3>Be Social With Me!!!</h3>
 <hr>
+<h3>Be Social With Me!!!</h3>
 <p align="center">  
   <a href="https://twitter.com/imamuddinwp" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imamuddinwp">
