@@ -1,6 +1,5 @@
 # <h1><a href="https://imamuddinwp.github.io/imamuddin/" target="_blank">Imam Uddin</a></h1>
 <h2>Front-End Developer | SEO Expert </h2>
-<hr>
 <h3>Be Social With Me!!!</h3>
 <p align="center">  
   <a href="https://twitter.com/imamuddinwp" target="_blank">
@@ -40,7 +39,7 @@
 <hr>
 <a href="https://imamuddinwp.github.io/imamuddin" target="_blank"> <img src="https://github.com/imamuddinwp/imamuddin/blob/main/imam-uddin-imamuddinwp.jpg"></a>
 <hr>
-<p> Hey there; it's me! 🤠 Imam Uddin; imamuddinwp, a passionate Front-End Web Developer & SEO Expert. I always love to play with codes, blogging, web design, WordPress, Search Engine Optimization (SEO), Social Media Marketing (SMM), and especially digital marketing. I also love to keep me up-to-date with new technologies & innovative creations. To review my online presence, find me in a popular search engine by searching with the keyword 🕵 <b>'imamuddinwp'</b> or <b>'Imam Uddin'</b>. </p>
+<p> Hey there; it's me! 🤠 <b>Imam Uddin</b>; <b>imamuddinwp</b>, a passionate Front-End Web Developer & SEO Expert. I always love to play with codes, blogging, web design, WordPress, Search Engine Optimization (SEO), Social Media Marketing (SMM), and especially digital marketing. I also love to keep me up-to-date with new technologies & innovative creations. To review my online presence, find me in a popular search engine by searching with the keyword 🕵 <b>'imamuddinwp'</b> or <b>'Imam Uddin'</b>. </p>
 
 <p>I'm a full-time professional Freelancer with multiple skillsets for the +7 years. </p>
 
@@ -133,6 +132,6 @@
 </ul>
 
 <h6>🤝 With thanx & ♥...✍</h6>
-<p>__________________________</p>
+____________________________
 <h5>😎Imam Uddin, imamuddinwp;</h5> 
 
