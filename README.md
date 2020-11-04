@@ -20,9 +20,6 @@
     <a href="https://imamuddinwp.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-1877F2?style=flat&labelColor=1877F2&logo=medium&logoColor=white&link=https://imamuddinwp.medium.com/">
   </a>
-  <a href="https://mix.com/imamuddinwp" target="_blank">
-    <img src="https://img.shields.io/badge/-Mix-1877F2?style=flat&labelColor=1877F2&logo=mix&logoColor=white&link=https://mix.com/imamuddinwp">
-  </a>  
    <a href="https://facebook.com/imamuddinwp" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/imamuddinwp">
   </a>
@@ -41,7 +38,6 @@
 <hr>
 <p> Hey there; it's me! 🤠 <b>Imam Uddin</b>; <b>imamuddinwp</b>, a passionate Front-End Web Developer & SEO Expert. I always love to play with codes, blogging, web design, WordPress, Search Engine Optimization (SEO), Social Media Marketing (SMM), and especially digital marketing. I also love to keep me up-to-date with new technologies & innovative creations. To review my online presence, find me in a popular search engine by searching with the keyword 🕵 <b>'imamuddinwp'</b> or <b>'Imam Uddin'</b>. </p>
 <h5>👉 How I will help you?...✍</h5>
-
 ☑ WordPress 🖥 , ☑ WordPress & WooCommerce 🛒, ☑ SEO - Search Engine Optimization 🚀, ☑ Social Media Profile Setup & Optimizations 🔖
 <h6>🤝 With thanx & ♥...✍</h6>
 ____________________________
