@@ -42,15 +42,7 @@
 <p> Hey there; it's me! 🤠 <b>Imam Uddin</b>; <b>imamuddinwp</b>, a passionate Front-End Web Developer & SEO Expert. I always love to play with codes, blogging, web design, WordPress, Search Engine Optimization (SEO), Social Media Marketing (SMM), and especially digital marketing. I also love to keep me up-to-date with new technologies & innovative creations. To review my online presence, find me in a popular search engine by searching with the keyword 🕵 <b>'imamuddinwp'</b> or <b>'Imam Uddin'</b>. </p>
 <h5>👉 How I will help you?...✍</h5>
 
-<h4>☑ WordPress 🖥 </h4>
-<h4> ☑ Basic WordPress 🔌 </h4>
-<h4> ☑ WordPress & WooCommerce 🛒</h4>
-<h4>☑ SEO - Search Engine Optimization 🚀</h4>
-<h4>☑ On-page SEO 🔍</h4>
-<h4> ☑ Off-Page SEO 📌</h4>
-<h4>☑ Technical SEO 🔭</h4>
-<h4>☑ Local SEO 🗺 </h4>
-<h4> ☑ Social Media Profile Setup & Optimizations 🔖</h4>
+☑ WordPress 🖥 , ☑ WordPress & WooCommerce 🛒, ☑ SEO - Search Engine Optimization 🚀, ☑ Social Media Profile Setup & Optimizations 🔖
 <h6>🤝 With thanx & ♥...✍</h6>
 ____________________________
 <h5>😎Imam Uddin, imamuddinwp;</h5> 
