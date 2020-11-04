@@ -40,85 +40,99 @@
 <hr>
 <a href="https://imamuddinwp.github.io/imamuddin" target="_blank"> <img src="https://github.com/imamuddinwp/imamuddin/blob/main/imam-uddin-imamuddinwp.jpg"></a>
 
-Imam Uddin
-WordPress | WooCommerce | SEO
-Hey there; it's me! 🤠 Imam Uddin; imamuddinwp, a passionate Front-End Web Developer & SEO Expert. I always love to play with codes, blogging, web design, WordPress, Search Engine Optimization (SEO), Social Media Marketing (SMM), and especially digital marketing. I also love to keep me up-to-date with new technologies & innovative creations. To review my online presence, find me in a popular search engine by searching with the keyword 🕵 'imamuddinwp'. 
+<p> Hey there; it's me! 🤠 Imam Uddin; imamuddinwp, a passionate Front-End Web Developer & SEO Expert. I always love to play with codes, blogging, web design, WordPress, Search Engine Optimization (SEO), Social Media Marketing (SMM), and especially digital marketing. I also love to keep me up-to-date with new technologies & innovative creations. To review my online presence, find me in a popular search engine by searching with the keyword 🕵 'imamuddinwp'. </p>
 
-I'm a full-time professional Freelancer with multiple skillsets for the +7 years. 
+<p>I'm a full-time professional Freelancer with multiple skillsets for the +7 years. </p>
 
 👉 How I will help you?...✍
 
 ☑ WordPress 🖥
 As a WordPress & Elementor Expert, I will design and build your website front-end with WordPress; the most popular web publishing platform & open source Content Management System (CMS).
 
-☑ Basic WordPress 🔌
-✓ Configure & Checkup your Domain & Hosting
-✓ Install & Setup WordPress, Theme, Plugin
-✓ Responsive Website Design With Elementor Pro
-✓ Landing Pages Design With Elementor Pro;
-✓ PSD to WordPress Conversion With Elementor Pro;
-✓ Designing & Implementing New Features & Functionality
-✓ WordPress Website Migration
-✓ WordPress Website Backup
-✓ Re-design your WordPress website
-✓ Setting up SSL Certificate
+<h4> ☑ Basic WordPress 🔌 </h4>
+<ul>
+<li>✓ Configure & Checkup your Domain & Hosting</li>
+<li>✓ Install & Setup WordPress, Theme, Plugin</li>
+<li>✓ Responsive Website Design With Elementor Pro</li>
+<li>✓ Landing Pages Design With Elementor Pro;</li>
+<li>✓ PSD to WordPress Conversion With Elementor Pro;</li>
+<li>✓ Designing & Implementing New Features & Functionality</li>
+<li>✓ WordPress Website Migration</li>
+<li>✓ WordPress Website Backup</li>
+<li>✓ Re-design your WordPress website</li>
+<li>✓ Setting up SSL Certificate</li>
+</ul>
 
-☑ WordPress & WooCommerce 🛒
-✓ Install & Setup WooCommerce Theme
-✓ WooCommerce Customization
-✓ Upload Products to your WooCommerce website
-✓ Variable Product upload
+<h4> ☑ WordPress & WooCommerce 🛒</h4>
+<ul>
+<li>✓ Install & Setup WooCommerce Theme</li>
+<li>✓ WooCommerce Customization</li>
+<li>✓ Upload Products to your WooCommerce website</li>
+<li>✓ Variable Product upload</li>
+</ul>
 
-☑ SEO - Search Engine Optimization 🚀
+<h4>☑ SEO - Search Engine Optimization 🚀</h4>
 
-☑ On-page SEO 🔍
-You can’t ignore on-page SEO if you want search engine rankings & earn organic traffic for your website.
-✓ Keyword Research
-✓ Competitor Analysis
-✓ All types of Tags (Title, Meta, Heading, Image) Optimizations
-✓ Submit your website to popular Search Engines (Google, Bing, etc)
-✓ Google Search Console Setup
-✓ Yoast SEO Plugin Setup & Optimization
-✓ RankMath SEO Plugin Setup & Optimization
-✓ SEO Audit Report
+<h4>☑ On-page SEO 🔍</h4>
+<ul>
+<li>You can’t ignore on-page SEO if you want search engine rankings & earn organic traffic for your website.</li>
+<li>✓ Keyword Research</li>
+<li>✓ Competitor Analysis</li>
+<li>✓ All types of Tags (Title, Meta, Heading, Image) Optimizations</li>
+<li>✓ Submit your website to popular Search Engines (Google, Bing, etc)</li>
+<li>✓ Google Search Console Setup</li>
+<li>✓ Yoast SEO Plugin Setup & Optimization</li>
+<li>✓ RankMath SEO Plugin Setup & Optimization</li>
+<li>✓ SEO Audit Report</li>
+</ul>
 
-☑ Off-Page SEO 📌
-✓ Link Building
-✓ Social Sharing 
-✓ Social Bookmarking
+<h4> ☑ Off-Page SEO 📌</h4>
+<ul>
+<li>✓ Link Building</li>
+<li>✓ Social Sharing </li>
+<li>✓ Social Bookmarking</li>
+</ul>
 
-☑ Technical SEO 🔭
-✓ Website Speed Optimization
-✓ SSL Setup ( HTTPS)
-✓ Device Friendly (Mobile-friendliness) Checkup
-✓ Fix your 404 errors
-✓ Adding a correctly formatted Robots.txt file to the website
-✓ Adding a correctly formatted sitemap.xml file to the website
-✓ Broken Link Checkup
+<h4>☑ Technical SEO 🔭</h4>
+<ul>
+<li>✓ Website Speed Optimization</li>
+<li>✓ SSL Setup ( HTTPS)</li>
+<li>✓ Device Friendly (Mobile-friendliness) Checkup</li>
+<li>✓ Fix your 404 errors</li>
+<li>✓ Adding a correctly formatted Robots.txt file to the website</li>
+<li>✓ Adding a correctly formatted sitemap.xml file to the website</li>
+<li>✓ Broken Link Checkup</li>
+</ul>
 
-☑ Local SEO 🗺
-To improve your local business, your website to be found in local search results & local ranking. 
-✓ Google My Business GMB full Setup & Optimization
-✓ Add your business to Google Maps
-✓ Bing Places for Business Optimization
-✓ Add your business to Bing Maps
+<h4>☑ Local SEO 🗺 </h4>
+<p>To improve your local business, your website to be found in local search results & local ranking. </p>
+<ul>
+<li>✓ Google My Business GMB full Setup & Optimization</li>
+<li>✓ Add your business to Google Maps</li>
+<li>✓ Bing Places for Business Optimization</li>
+<li>✓ Add your business to Bing Maps</li>
+</ul>
 
-☑ Social Media Profile Setup & Optimizations 🔖
-✓ Personal Profile Optimization in Facebook, Twitter, LinkedIn, Instagram, Pinterest, Youtube
-✓ Company page setup & Optimization in Facebook, Twitter, LinkedIn, Instagram, Pinterest, Youtube
-✓ Connect your social page ( Facebook to Instagram, WhatsApp)
+<h4> ☑ Social Media Profile Setup & Optimizations 🔖</h4>
+<ul>
+<li>✓ Personal Profile Optimization in Facebook, Twitter, LinkedIn, Instagram, Pinterest, Youtube</li>
+<li>✓ Company page setup & Optimization in Facebook, Twitter, LinkedIn, Instagram, Pinterest, Youtube</li>
+<li>✓ Connect your social page ( Facebook to Instagram, WhatsApp)</li>
+</ul>
 
-☑ My Others Skills and Qualifications 📂
-✓ Good understanding of front-end technologies, including HTML5, CSS3, SASS, Bootstrap 5, jQuery
-✓ Experience in designing and developing responsive websites
-✓ Adobe Photoshop Basics, PSD to HTML5 pixel-perfect
-✓ Strong understanding of Object-oriented programming (OOP)
-✓ Good knowledge of C#.NET, ASP.NET, MS-SQL Server, Visual Basic, PHP, MySql
-✓ Certified in MCPD - Microsoft Certified Professional Developer
-✓ Depth knowledge of Advanced Excel Data Processing
-✓ Excel Automation (Excel Macro, Excel VBA)
+<h4>☑ My Others Skills and Qualifications 📂</h4>
+<ul>
+<li>✓ Good understanding of front-end technologies, including HTML5, CSS3, SASS, Bootstrap 5, jQuery</li>
+<li>✓ Experience in designing and developing responsive websites</li>
+<li>✓ Adobe Photoshop Basics, PSD to HTML5 pixel-perfect</li>
+<li>✓ Strong understanding of Object-oriented programming (OOP)</li>
+<li>✓ Good knowledge of C#.NET, ASP.NET, MS-SQL Server, Visual Basic, PHP, MySql</li>
+<li>✓ Certified in MCPD - Microsoft Certified Professional Developer</li>
+<li>✓ Depth knowledge of Advanced Excel Data Processing</li>
+<li>✓ Excel Automation (Excel Macro, Excel VBA)</li>
+</ul>
 
-🤝 With thanx & ♥...✍
-__________________________
-😎 Imam Uddin, imamuddinwp; 
+<h6>🤝 With thanx & ♥...✍</h6>
+<p>__________________________</p>
+<h5>😎 Imam Uddin, imamuddinwp;</h5> 
 
