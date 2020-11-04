@@ -37,9 +37,9 @@
 <a href="https://imamuddinwp.github.io/imamuddin" target="_blank"> <img src="https://github.com/imamuddinwp/imamuddin/blob/main/imam-uddin-imamuddinwp.jpg"></a>
 <hr>
 <p> Hey there; it's me! 🤠 <b>Imam Uddin</b>; <b>imamuddinwp</b>, a passionate Front-End Web Developer & SEO Expert. I always love to play with codes, blogging, web design, WordPress, Search Engine Optimization (SEO), Social Media Marketing (SMM), and especially digital marketing. I also love to keep me up-to-date with new technologies & innovative creations. To review my online presence, find me in a popular search engine by searching with the keyword 🕵 <b>'imamuddinwp'</b> or <b>'Imam Uddin'</b>. </p>
-<h5>👉 How I will help you?...✍</h5>
-☑ WordPress 🖥 , ☑ WordPress & WooCommerce 🛒, ☑ SEO - Search Engine Optimization 🚀, ☑ Social Media Profile Setup & Optimizations 🔖
-<h6>🤝 With thanx & ♥...✍</h6>
-____________________________
-<h5>😎Imam Uddin, imamuddinwp;</h5> 
+<p>👉 How I will help you?...✍</p>
+<p>☑ WordPress 🖥 , ☑ WordPress & WooCommerce 🛒, ☑ SEO - Search Engine Optimization 🚀, ☑ Social Media Profile Setup & Optimizations 🔖</p>
+<p>🤝 With thanx & ♥...✍</p>
+<p>____________________________</p>
+<p>😎<b>Imam Uddin</b>, <b>imamuddinwp;</b> </p>
 
