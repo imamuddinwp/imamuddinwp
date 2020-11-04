@@ -1,5 +1,5 @@
 # <h1><a href="https://imamuddinwp.github.io/imamuddin/" target="_blank">Imam Uddin</a></h1>
-# <h2>Front-End Developer | SEO Expert </h2>
+<h2>Front-End Developer | SEO Expert </h2>
 <h3>Be Social With Me!!!</h3>
 <hr>
 <p align="center">  
