@@ -39,15 +39,15 @@
 </p
 <hr>
 <a href="https://imamuddinwp.github.io/imamuddin" target="_blank"> <img src="https://github.com/imamuddinwp/imamuddin/blob/main/imam-uddin-imamuddinwp.jpg"></a>
-
-<p> Hey there; it's me! 🤠 Imam Uddin; imamuddinwp, a passionate Front-End Web Developer & SEO Expert. I always love to play with codes, blogging, web design, WordPress, Search Engine Optimization (SEO), Social Media Marketing (SMM), and especially digital marketing. I also love to keep me up-to-date with new technologies & innovative creations. To review my online presence, find me in a popular search engine by searching with the keyword 🕵 'imamuddinwp'. </p>
+<hr>
+<p> Hey there; it's me! 🤠 Imam Uddin; imamuddinwp, a passionate Front-End Web Developer & SEO Expert. I always love to play with codes, blogging, web design, WordPress, Search Engine Optimization (SEO), Social Media Marketing (SMM), and especially digital marketing. I also love to keep me up-to-date with new technologies & innovative creations. To review my online presence, find me in a popular search engine by searching with the keyword 🕵 <b>'imamuddinwp'</b> or <b>'Imam Uddin'</b>. </p>
 
 <p>I'm a full-time professional Freelancer with multiple skillsets for the +7 years. </p>
 
-👉 How I will help you?...✍
+<h5>👉 How I will help you?...✍</h5>
 
-☑ WordPress 🖥
-As a WordPress & Elementor Expert, I will design and build your website front-end with WordPress; the most popular web publishing platform & open source Content Management System (CMS).
+<h4>☑ WordPress 🖥 </h4>
+<p>As a WordPress & Elementor Expert, I will design and build your website front-end with WordPress; the most popular web publishing platform & open source Content Management System (CMS).</p>
 
 <h4> ☑ Basic WordPress 🔌 </h4>
 <ul>
@@ -134,5 +134,5 @@ As a WordPress & Elementor Expert, I will design and build your website front-en
 
 <h6>🤝 With thanx & ♥...✍</h6>
 <p>__________________________</p>
-<h5>😎 Imam Uddin, imamuddinwp;</h5> 
+<h5>😎Imam Uddin, imamuddinwp;</h5> 
 
