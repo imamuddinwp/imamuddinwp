@@ -1,5 +1,5 @@
-<h1><a href="https://imamuddinwp.blogspot.com" target="_blank">Imam Uddin</a></h1>
-<h2>Front-End Developer | SEO Expert </h2>
+<h1><a href="https://imamuddinwp.blogspot.com" target="_blank">Best SEO Expert In Chittagong - Imam Uddin</a></h1>
+<h2>Best SEO Expert In BD - Front-End Developer</h2>
 <h3>Be Social With Me!!! 😍</h3>
 <p align="center">  
   <a href="https://twitter.com/imamuddinwp" target="_blank">
@@ -36,7 +36,7 @@
 <hr>
 <a href="https://imamuddinwp.dorik.io/" target="_blank"> <img src="https://github.com/imamuddinwp/imamuddinwp/blob/main/responsive-web-design-banner-imamuddinwp-.png" alt="imamuddin-imamuddinwp" /></a>
 <hr>
-<p> Hey there; it's me! 🤠 <b><a href="https://imamuddinwp.wixsite.com/imamuddin">Imam Uddin</a></b>; <b><a href="https://imamuddinwp.carrd.co">imamuddinwp</a></b>, a passionate Front-End Web Developer & SEO Expert. I always love to play with codes, blogging, web design, WordPress, Search Engine Optimization (SEO), <a href="https://imamuddinwp.gitbook.io/local-seo/">Local SEO</a>, Social Media Marketing (SMM), and especially digital marketing. I also love to keep me up-to-date with new technologies & innovative creations. To review my online presence, find me in a popular search engine by searching with the keyword 🕵 <b><a href="https://about.me/imamuddinwp/">'imamuddinwp'</a> </b>  or  <b><a href="https://imamuddinwp.dorik.io/">'Imam Uddin'</a></b>. </p>
+<p> Welcome to <b>Best SEO Expert In Chittagong - Best SEO Expert In BD - Imam Uddin</b>. <hr> Hey there; it's me! 🤠 <b><a href="https://imamuddinwp.wixsite.com/imamuddin">Imam Uddin</a></b>; <b><a href="https://imamuddinwp.carrd.co">imamuddinwp</a></b>, a passionate Front-End Web Developer & SEO Expert. I always love to play with codes, blogging, web design, WordPress, Search Engine Optimization (SEO), <a href="https://imamuddinwp.gitbook.io/local-seo/">Local SEO</a>, Social Media Marketing (SMM), and especially digital marketing. I also love to keep me up-to-date with new technologies & innovative creations. To review my online presence, find me in a popular search engine by searching with the keyword 🕵 <b><a href="https://about.me/imamuddinwp/">'imamuddinwp'</a> </b>  or  <b><a href="https://imamuddinwp.dorik.io/">'Imam Uddin'</a></b>. </p>
 <p>👉 How I will help you?...✍</p>
 <ul>
 <li> ☑ Shopify Store Design 🛍️ </li>
@@ -47,7 +47,7 @@
 </ul>
 <p>🤝 With thanx & ♥...✍</p>
 ____________________________________
-<p>😎<b><a href="https://talent.hubstaff.com/profiles/imam-uddin">Imam Uddin</b></a>, <b><a href="https://www.fiverr.com/imamuddinwp">imamuddinwp</a>;</b> </p>
+<p>😎<b><a href="https://talent.hubstaff.com/profiles/imam-uddin">Imam Uddin</b></a>, <b><a href="https://www.fiverr.com/imamuddinwp">imamuddinwp</a>;</b> Best SEO Expert In Chittagong - Best SEO Expert In BD - Imam Uddin</p>
 <hr>
 <a href="https://about.me/imamuddinwp" target="_blank"> <img src="https://github.com/imamuddinwp/imamuddinwp/blob/main/imam-uddin-imamuddinwp.png" alt="imamuddinwp-imam-uddin-imamuddin" /></a>
 <hr>
