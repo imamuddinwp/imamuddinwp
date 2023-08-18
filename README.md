@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/imamuddinwp/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-1ca0f1?style=flat&labelColor=1ca0f1&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/imamuddinwp/">
   </a>
-  <a href="https://behance.net/imamuddinwp" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/imamuddinwp">
+  <a href="https://behance.net/BestSEOExpertInBD" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/BestSEOExpertInBD">
   </>
    <a href="https://www.instagram.com/imamuddinwp/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-1ca0f1?style=flat&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://www.instagram.com/imamuddinwp/">
@@ -17,19 +17,19 @@
    <a href="https://bn.quora.com/profile/Imam-Uddin-Wp" target="_blank">
     <img src="https://img.shields.io/badge/-Quora-1ca0f1?style=flat&labelColor=1ca0f1&logo=quora&logoColor=white&link=https://bn.quora.com/profile/Imam-Uddin-Wp">
   </a>
-    <a href="https://imamuddinwp.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-1877F2?style=flat&labelColor=1877F2&logo=medium&logoColor=white&link=https://imamuddinwp.medium.com/">
+    <a href="https://bestseoexpertinbd.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-1877F2?style=flat&labelColor=1877F2&logo=medium&logoColor=white&link=https://bestseoexpertinbd.medium.com/">
   </a>
    <a href="https://facebook.com/imamuddinwp" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/imamuddinwp">
   </a>
-  <a href="https://dribbble.com/imamuddinwp" target="_blank">
+  <a href="https://dribbble.com/BestSEOExpertInBD" target="_blank">
     <img src="https://img.shields.io/badge/-Dribbble-1877F2?style=flat&labelColor=1877F2&logo=dribbble&logoColor=white&link=https://dribbble.com/BestSEOExpertInBD">
   </a>
-  <a href="https://github.com/imamuddinwp" target="_blank">
+  <a href="https://github.com/BestSEOExpertInBD" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/BestSEOExpertInBD?label=Github&style=flat">
   </a>
-  <a href="https://github.com/imamuddinwp" target="_blank">
+  <a href="https://github.com/BestSEOExpertInBD" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=BestSEOExpertInBD&label=Views&color=brightgreen&style=flat" alt="Best SEO Expert In BD" />
   </a>
 </p
