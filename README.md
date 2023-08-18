@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/imamuddinwp">
   </a>
   <a href="https://dribbble.com/imamuddinwp" target="_blank">
-    <img src="https://img.shields.io/badge/-Dribbble-1877F2?style=flat&labelColor=1877F2&logo=dribbble&logoColor=white&link=https://dribbble.com/imamuddinwp">
+    <img src="https://img.shields.io/badge/-Dribbble-1877F2?style=flat&labelColor=1877F2&logo=dribbble&logoColor=white&link=https://dribbble.com/BestSEOExpertInBD">
   </a>
   <a href="https://github.com/imamuddinwp" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/imamuddinwp?label=Github&style=flat">
