@@ -5,8 +5,8 @@
   <a href="https://twitter.com/imamuddinwp" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imamuddinwp">
   </a>
-  <a href="https://www.linkedin.com/in/imamuddinwp/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-1ca0f1?style=flat&labelColor=1ca0f1&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/imamuddinwp/">
+  <a href="https://www.linkedin.com/in/bestseoexpertimam" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-1ca0f1?style=flat&labelColor=1ca0f1&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bestseoexpertimam/">
   </a> 
   <a href="https://behance.net/BestSEOExpertInBD" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/BestSEOExpertInBD">
