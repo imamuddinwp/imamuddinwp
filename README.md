@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/-Dribbble-1877F2?style=flat&labelColor=1877F2&logo=dribbble&logoColor=white&link=https://dribbble.com/SEOExpertImamUddin">
   </a>
   <a href="https://github.com/SEOExpertImamUddin" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/BestSEOExpertInBD?label=Github&style=flat">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/SEOExpertImamUddin?label=Github&style=flat">
   </a>
   <a href="https://github.com/SEOExpertImamUddin" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=BestSEOExpertInBD&label=Views&color=brightgreen&style=flat" alt="Best SEO Expert In BD" />
