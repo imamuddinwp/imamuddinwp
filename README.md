@@ -2,14 +2,14 @@
 <h2>Best SEO Expert In BD - Front-End Developer</h2>
 <h3>Be Social With Me!!! 😍</h3>
 <p align="center">  
-  <a href="https://twitter.com/imamuddinwp" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imamuddinwp">
+  <a href="https://twitter.com/SEOExpertImamU" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SEOExpertImamU">
   </a>
-  <a href="https://www.linkedin.com/in/bestseoexpertimam" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-1ca0f1?style=flat&labelColor=1ca0f1&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bestseoexpertimam/">
+  <a href="https://www.linkedin.com/in/seoexpertimamuddin" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-1ca0f1?style=flat&labelColor=1ca0f1&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seoexpertimamuddin/">
   </a> 
-  <a href="https://behance.net/BestSEOExpertInBD" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/BestSEOExpertInBD">
+  <a href="https://behance.net/SEOExpertImamUddin" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/SEOExpertImamUddin">
   </>
    <a href="https://www.instagram.com/imamuddinwp/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-1ca0f1?style=flat&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://www.instagram.com/imamuddinwp/">
@@ -17,26 +17,26 @@
    <a href="https://bn.quora.com/profile/Imam-Uddin-Wp" target="_blank">
     <img src="https://img.shields.io/badge/-Quora-1ca0f1?style=flat&labelColor=1ca0f1&logo=quora&logoColor=white&link=https://bn.quora.com/profile/Imam-Uddin-Wp">
   </a>
-    <a href="https://bestseoexpertinbd.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-1877F2?style=flat&labelColor=1877F2&logo=medium&logoColor=white&link=https://bestseoexpertinbd.medium.com/">
+    <a href="https://medium.com/@seoexpertimamuddin" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-1877F2?style=flat&labelColor=1877F2&logo=medium&logoColor=white&link=https://medium.com/@seoexpertimamuddin">
   </a>
-   <a href="https://facebook.com/imamuddinwp" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/imamuddinwp">
+   <a href="https://facebook.com/SEOExpertImamUddin" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/SEOExpertImamUddin">
   </a>
-  <a href="https://dribbble.com/BestSEOExpertInBD" target="_blank">
-    <img src="https://img.shields.io/badge/-Dribbble-1877F2?style=flat&labelColor=1877F2&logo=dribbble&logoColor=white&link=https://dribbble.com/BestSEOExpertInBD">
+  <a href="https://dribbble.com/SEOExpertImamUddin" target="_blank">
+    <img src="https://img.shields.io/badge/-Dribbble-1877F2?style=flat&labelColor=1877F2&logo=dribbble&logoColor=white&link=https://dribbble.com/SEOExpertImamUddin">
   </a>
-  <a href="https://github.com/BestSEOExpertInBD" target="_blank">
+  <a href="https://github.com/SEOExpertImamUddin" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/BestSEOExpertInBD?label=Github&style=flat">
   </a>
-  <a href="https://github.com/BestSEOExpertInBD" target="_blank">
+  <a href="https://github.com/SEOExpertImamUddin" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=BestSEOExpertInBD&label=Views&color=brightgreen&style=flat" alt="Best SEO Expert In BD" />
   </a>
 </p
 <hr>
 <a href="https://imamuddinwp.dorik.io/" target="_blank"> <img src="https://github.com/imamuddinwp/imamuddinwp/blob/main/responsive-web-design-banner-imamuddinwp-.png" alt="imamuddin-imamuddinwp" /></a>
 <hr>
-<p> Welcome to <b>Best SEO Expert In Chittagong - Best SEO Expert In BD - Imam Uddin</b>. <hr> Hey there; it's me! 🤠 <b><a href="https://imamuddinwp.wixsite.com/imamuddin">Imam Uddin</a></b>; <b><a href="https://imamuddinwp.carrd.co">imamuddinwp</a></b>, a passionate Front-End Web Developer & SEO Expert. I always love to play with codes, blogging, web design, WordPress, Search Engine Optimization (SEO), <a href="https://imamuddinwp.gitbook.io/local-seo/">Local SEO</a>, Social Media Marketing (SMM), and especially digital marketing. I also love to keep me up-to-date with new technologies & innovative creations. To review my online presence, find me in a popular search engine by searching with the keyword 🕵 <b><a href="https://about.me/imamuddinwp/">'imamuddinwp'</a> </b>  or  <b><a href="https://imamuddinwp.dorik.io/">'Imam Uddin'</a></b>. </p>
+<p> Welcome to <b>Best SEO Expert In Chittagong - Best SEO Expert In BD - Imam Uddin</b>. <hr> Hey there; it's me! 🤠 <b><a href="https://bestseoexpertbd.wixsite.com/bestseoexpertinbd">Imam Uddin</a></b>; <b><a href="https://seoexpertimamuddin.carrd.co">imamuddinwp</a></b>, a passionate Front-End Web Developer & SEO Expert. I always love to play with codes, blogging, web design, WordPress, Search Engine Optimization (SEO), <a href="https://imamuddinwp.gitbook.io/local-seo/">Local SEO</a>, Social Media Marketing (SMM), and especially digital marketing. I also love to keep me up-to-date with new technologies & innovative creations. To review my online presence, find me in a popular search engine by searching with the keyword 🕵 <b><a href="https://about.me/imamuddinwp/">'imamuddinwp'</a> </b>  or  <b><a href="https://bestseoexpertinbd.dcms.site/">'Imam Uddin'</a></b>. </p>
 <p>👉 How I will help you?...✍</p>
 <ul>
 <li> ☑ Shopify Store Design 🛍️ </li>
