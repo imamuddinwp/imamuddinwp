@@ -1,5 +1,5 @@
-<h1><a href="https://imamuddinwp.blogspot.com" target="_blank">Imam Uddin | imamuddinwp | SEO Expert | Web Designer</a></h1>
-<h2>Best SEO Expert In BD - Front-End Developer</h2>
+<h1><a href="https://imamuddinwp.blogspot.com" target="_blank">Imam Uddin | imamuddinwp</a></h1>
+<h2>SEO Expert | Web Designer | Freelance Digital Marketing</h2>
 <h3>Be Social With Me!!! 😍</h3>
 <p align="center">  
   <a href="https://twitter.com/imamuddinwp" target="_blank">
