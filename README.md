@@ -49,5 +49,5 @@
 ____________________________________
 <p>😎<b><a href="https://talent.hubstaff.com/profiles/imam-uddin">Imam Uddin</b></a>, <b><a href="https://www.fiverr.com/imamuddinwp">imamuddinwp</a>;</b> Best SEO Expert In Chittagong - Best SEO Expert In BD - Imam Uddin</p>
 <hr>
-<a href="https://about.me/imamuddinwp" target="_blank"> <img src="https://github.com/imamuddinwp/imamuddinwp/blob/main/imam-uddin-imamuddinwp.png" alt="imamuddinwp-imam-uddin-imamuddin" /></a>
+<a href="https://imamuddinwp.com/p/about-me-who-am-i.html" target="_blank"> <img src="https://github.com/imamuddinwp/imamuddinwp/blob/main/imam-uddin-imamuddinwp.png" alt="imamuddinwp-imam-uddin-imamuddin" /></a>
 <hr>
