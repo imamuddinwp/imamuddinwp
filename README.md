@@ -1,4 +1,4 @@
-<h1><a href="https://imamuddinwp.blogspot.com" target="_blank">Imam Uddin | imamuddinwp</a></h1>
+<h1><a href="https://imamuddinwp.com" target="_blank">Imam Uddin | imamuddinwp</a></h1>
 <h2>SEO Expert | Web Designer | Freelance Digital Marketing</h2>
 <h3>Be Social With Me!!! 😍</h3>
 <p align="center">  
