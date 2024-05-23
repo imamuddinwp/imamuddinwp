@@ -2,8 +2,8 @@
 <h2>SEO Expert | Web Designer | Freelance Digital Marketing</h2>
 <h3>Be Social With Me!!! 😍</h3>
 <p align="center">  
-  <a href="https://twitter.com/imamuddinwp" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imamuddinwp">
+  <a href="https://twitter.com/imamuddinweb" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imamuddinweb">
   </a>
   <a href="https://www.linkedin.com/in/imamuddinwp" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-1ca0f1?style=flat&labelColor=1ca0f1&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/imamuddinwp">
