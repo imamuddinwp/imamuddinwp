@@ -11,7 +11,7 @@
   </a>
   <a href="https://behance.net/imamuddinwp" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/imamuddinwp">
-  </>
+  </a>
    <a href="https://www.instagram.com/imamuddinwp" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-1ca0f1?style=flat&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://www.instagram.com/imamuddinwp">
   </a> 
