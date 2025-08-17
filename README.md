@@ -23,7 +23,10 @@
    <a href="https://facebook.com/imamuddinwp" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/imamuddinwp">
   </a>
-  <a href="https://dribbble.com/imamuddinwp" target="_blank">
+  <a href="https://www.blogger.com/profile/04699450517091153429" target="_blank">
+    <img src="https://img.shields.io/badge/-Blogger-1877F2?style=flat&labelColor=1877F2&logo=blogger&logoColor=white&link=https://www.blogger.com/profile/04699450517091153429">
+  </a>
+    <a href="https://dribbble.com/imamuddinwp" target="_blank">
     <img src="https://img.shields.io/badge/-Dribbble-1877F2?style=flat&labelColor=1877F2&logo=dribbble&logoColor=white&link=https://dribbble.com/imamuddinwp">
   </a>
   <a href="https://github.com/imamuddinwp" target="_blank">
