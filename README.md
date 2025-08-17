@@ -15,10 +15,7 @@
    <a href="https://www.instagram.com/imamuddinwp" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-1ca0f1?style=flat&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://www.instagram.com/imamuddinwp">
   </a> 
-   
-    <a href="https://medium.com/@imamuddinwp" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-1877F2?style=flat&labelColor=1877F2&logo=medium&logoColor=white&link=https://medium.com/@imamuddinwp">
-  </a>
+
    <a href="https://facebook.com/imamuddinwpbd" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/imamuddinwp">
   </a>
